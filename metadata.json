@@ -1,0 +1,8 @@
+{
+  "name": "EduPay Tracker - backend",
+  "description": "Comprehensive school fee, tuition, and academy payment tracking application with pending balance management, Paystack subscription & billing integration, automated receipts, and reminder drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
